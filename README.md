@@ -2,8 +2,8 @@ The code of Regional Defeats Global: A Convolutional Architecture-based Region F
 
 To address the computational overhead introduced by the widespread use of global modeling architectures in current multispectral fusion research, we propose a constrained-computation solution by introducing a region-based feature computation mechanism.
 
-<img src="./LMFFM.png" width="50%" /> 
+<img src="./LMFFM.png" width="60%" /> 
 
-<img src="./CARFCOM.png" width="50%" /> 
+<img src="./CARFCOM.png" width="40%" /> 
 
 Source code will be made available upon paper acceptance.
