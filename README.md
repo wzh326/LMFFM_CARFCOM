@@ -4,6 +4,6 @@ To address the computational overhead introduced by the widespread use of global
 
 <img src="./LMFFM.png" width="60%" /> 
 
-<img src="./CARFCOM.png" width="40%" /> 
+<img src="./CARFCOM.png" width="50%" /> 
 
 Source code will be made available upon paper acceptance.
